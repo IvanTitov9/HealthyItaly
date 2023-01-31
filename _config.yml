@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "https://yoursite.netlify.app"   #change this to yours
+url: "https://healthy-italia.netlify.app"   #change this to yours
 repository: IvanTitov9/HealthyItaly
 title: Your recipe collection
 recipemenu: false # you can change to true and a menu of all recipes will appear
