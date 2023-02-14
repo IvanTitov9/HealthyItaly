@@ -1,26 +1,34 @@
 ---
-title: Tomato and Mozzarella Salad
+title: Minestrone Soup
 date: 2023-02-14T15:06:40.579Z
-order: 3
+order: 4
 layout: recipe
 published: true
 ---
-This refreshing and colorful salad is made with juicy ripe tomatoes, creamy fresh mozzarella cheese, and fragrant basil leaves. The salad is dressed with a simple balsamic vinaigrette that enhances the flavors of the tomatoes and cheese. This salad is perfect for a light lunch or a starter before a main course.
+This hearty soup is packed with nutritious vegetables, beans, and small pasta. The soup is simmered in a vegetable broth and flavored with garlic and fresh parsley. The result is a comforting and filling soup that's perfect for a cold evening.
 
-![](../uploads/screenshot-2023-02-14-at-15.05.48.png "Tomato and Mozzarella Salad")
+![](../uploads/screenshot-2023-02-14-at-15.08.44.png "Minestrone Soup")
 
 ## Ingredients
 
-* 2 large tomatoes, sliced
-* 8 oz fresh mozzarella cheese, sliced
-* 1/4 cup chopped fresh basil
-* 2 tbsp balsamic vinegar
-* 2 tbsp olive oil
+* 1 tbsp olive oil
+* 1 onion, chopped
+* 2 cloves garlic, minced
+* 2 carrots, chopped
+* 2 stalks celery, chopped
+* 1 zucchini, chopped
+* 1 can diced tomatoes (14 oz)
+* 4 cups low-sodium vegetable broth
+* 1 cup cooked small pasta
+* 1 can cannellini beans (15 oz), drained and rinsed
+* 1/4 cup chopped fresh parsley
 * Salt and black pepper to taste
 
 ## Method
 
-1. Arrange the tomato and mozzarella slices on a platter or individual plates.
-2. Sprinkle the chopped basil over the top.
-3. In a small bowl, whisk together the balsamic vinegar and olive oil.
-4. Drizzle the dressing over the salad and season with salt and black pepper to taste.
+1. Heat the olive oil in a large pot over medium heat.
+2. Add the onion and garlic and cook until softened, about 3 minutes.
+3. Add the carrots, celery, and zucchini and cook for 5 minutes, stirring occasionally.
+4. Add the diced tomatoes, vegetable broth, and cooked pasta.
+5. Bring the soup to a boil, then reduce the heat and simmer for 20-25 minutes, or until the vegetables are tender.
+6. Add the cannellini beans and chopped
