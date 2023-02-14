@@ -1,28 +1,26 @@
 ---
-title: Spaghetti with Tomato and Basil
+title: Tomato and Mozzarella Salad
 date: 2023-02-14T15:01:55.618Z
-order: 1
+order: 3
 layout: recipe
 published: true
 ---
-Spaghetti with Tomato and Basil - This classic Italian dish features spaghetti tossed with a simple yet flavorful tomato sauce made with garlic, canned diced tomatoes, and fresh basil. This dish is quick and easy to make and perfect for a weeknight dinner. The aroma of the garlic and the fresh basil will have your taste buds craving for more!
+This refreshing and colorful salad is made with juicy ripe tomatoes, creamy fresh mozzarella cheese, and fragrant basil leaves. The salad is dressed with a simple balsamic vinaigrette that enhances the flavors of the tomatoes and cheese. This salad is perfect for a light lunch or a starter before a main course.
 
-![Delicious Plate of Spaghetti with Tomato and Basil](../uploads/screenshot-2023-02-14-at-14.53.18.png)
+![](../uploads/screenshot-2023-02-14-at-15.05.48.png "Tomato and Mozzarella Salad")
 
 ## Ingredients
 
-* 12 oz whole-wheat spaghetti
-* 2 tbsp olive oil
-* 4 cloves garlic, minced
-* 1 can diced tomatoes (14 oz)
+* 2 large tomatoes, sliced
+* 8 oz fresh mozzarella cheese, sliced
 * 1/4 cup chopped fresh basil
+* 2 tbsp balsamic vinegar
+* 2 tbsp olive oil
 * Salt and black pepper to taste
 
 ## Method
 
-1. Cook the spaghetti according to package instructions.
-2. Meanwhile, heat the olive oil in a large skillet over medium heat.
-3. Add the garlic and cook until fragrant, about 1 minute.
-4. Add the diced tomatoes and cook for 5-7 minutes, stirring occasionally, until the sauce has thickened.
-5. Add the chopped basil and season with salt and black pepper to taste.
-6. Toss the cooked spaghetti with the tomato sauce and serve
+1. Arrange the tomato and mozzarella slices on a platter or individual plates.
+2. Sprinkle the chopped basil over the top.
+3. In a small bowl, whisk together the balsamic vinegar and olive oil.
+4. Drizzle the dressing over the salad and season with salt and black pepper to taste.
