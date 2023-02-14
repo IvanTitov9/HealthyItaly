@@ -5,7 +5,7 @@ order: 1
 layout: recipe
 published: true
 ---
-Spaghetti with Tomato and Basil - This classic Italian dish features spaghetti tossed with a simple yet flavorful tomato sauce made with garlic, canned diced tomatoes, and fresh basil. This dish is quick and easy to make and perfect for a weeknight dinner. The aroma of the garlic and the fresh basil will have your taste buds craving for more!
+This classic Italian dish features spaghetti tossed with a simple yet flavorful tomato sauce made with garlic, canned diced tomatoes, and fresh basil. This dish is quick and easy to make and perfect for a weeknight dinner. The aroma of the garlic and the fresh basil will have your taste buds craving for more!
 
 ![Delicious Plate of Spaghetti with Tomato and Basil](../uploads/screenshot-2023-02-14-at-14.53.18.png)
 
