@@ -1,6 +1,6 @@
 ---
 title: "Healthy Italia "
-coverimage: ../uploads/healthy-italia.jpg
+coverimage: ../uploads/screenshot-2023-02-21-at-13.32.46.png
 permalink: /
 layout: recipeshome
 published: true
